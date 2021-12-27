@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm aFish (yiyu0x), an enthusiast currently learning Cloud Native technology and Site Reliability Engineering.
+I'm aFish (yiyu0x), an enthusiast of Kubernetes. Currently learning Cloud Native technology and Site Reliability Engineering.
 
 I'm also writing a [blog](https://blog.yiyu0x.org) to share my experience.
 
