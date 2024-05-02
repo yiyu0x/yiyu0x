@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm YY, Chang (yiyu0x), an enthusiast of Kubernetes. Currently learning Cloud Native technology and Site Reliability Engineering.
+I'm Kyle (yiyu0x), an enthusiast of Kubernetes. Currently learning Cloud Native technology and Site Reliability Engineering.
 
 ![yiyu0x's github stats](https://github-readme-stats.vercel.app/api?username=yiyu0x&show_icons=true&count_private=true&hide=prs&theme=algolia)
 
