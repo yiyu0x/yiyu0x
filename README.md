@@ -1,5 +1,10 @@
-### Hi there 👋
+## intro
 
-I'm Kyle, an enthusiast of Kubernetes. Currently learning Cloud Native technology and Site Reliability Engineering.
+`❯ kyle@bay-area` via `⬢ Macbook-Air-M5` 
+`❯ ls -l contents/`
 
-For more information about me, please visit [yiyu0x.org](https://yiyu0x.org).
+* **`coding/`** 
+* **`writing/`**
+* **`traveling/`** 
+
+`❯ curl -L` [blog.yiyu0x.org](https://blog.yiyu0x.org)
