@@ -1,6 +1,6 @@
 ## intro
 
-`❯ kyle@bay-area` via `⬢ Macbook-Air-M5` 
+`❯ kyle@bay` via `⬢ Macbook` 
 `❯ ls -l contents/`
 
 * **`coding/`** 
